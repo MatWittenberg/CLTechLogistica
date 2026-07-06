@@ -17,11 +17,7 @@ O sistema simula as principais operações de uma empresa de logística, automat
 4. Geração de Relatórios dinâmicos com filtro inteligente por CPF.
 5. Exclusão de Entregas e Cargas com recálculo automático de peso.
 
-## 👥 Equipe Desenvolvedora (CLTech)
-- Gustavo Pereira
-- Luan Carlos
-- Miguel Almeida
-- Inácio José
+## 👥Desenvolvedor
 - Matheus Gonçalves
 
 
